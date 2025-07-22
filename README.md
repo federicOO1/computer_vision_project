@@ -47,6 +47,7 @@ These tools were used **without fine-tuning** and produced **poor results**, esp
 We then trained and evaluated several deep learning models on the cropped plate images, applying **data augmentation** to increase robustness:
 
 ####  Data Augmentation used:
+- **Resizing**
 - **Color jitter**
 - **Small random rotations**
 - **Random erasing**
